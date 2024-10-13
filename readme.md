@@ -3,23 +3,15 @@
 
 - 🌱 I’m currently learning **Python, SQL, R, Power BI, Tableau, Machine Learning, Data Wrangling, Data Visualization, Predictive Analytics, Google Analytics, Excel, SAS, SPSS, A/B Testing, Data Mining, Business Intelligence, SQL Databases (PostgreSQL, MySQL), NoSQL Databases (MongoDB), Big Data Tools (Hadoop, Spark), Cloud Platforms (AWS, Azure), ETL Processes, Statistical Modeling, Time Series Analysis, Data Engineering, Deep Learning, and Natural Language Processing (NLP)**
 
-- "🚀 Revolutionizing Church Management" [CRM for the Church](https://thehopepresschapel.org/)
-
-- "📚 Transforming Online Learning" [E-learning Platform](https://digitalearn.info/)
-
-- "🔧 Connecting You to Services" [Service Provider Platform](https://rsconnect.in/)
-
-- 💬 Ask me about **Project Management Agile Methodologies Startup Strategies Tech Entrepreneurship Product Development**
-
 - 📫 How to reach me **vineetgoel0517@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1qRnjpqH7Wm4v3OEEuAN6TTgbDyRAzJic/edit?usp=sharing&ouid=100807844689693039497&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1YO4VHSipuY8f7r9rakSpf2jYgMkwRK03VRlo9o3sMkg/edit?tab=t.0)
 
 - ⚡ Fun fact **I have a knack for cooking exotic dishes and have tried over 50 different recipes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vineet-2020-goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vineet-2020-goyal" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/rohan-bajaj-46292b226]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vineet-2020-goyal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
