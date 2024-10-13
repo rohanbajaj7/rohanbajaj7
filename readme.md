@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, SQL, R, Power BI, Tableau, Machine Learning, Data Wrangling, Data Visualization, Predictive Analytics, Google Analytics, Excel, SAS, SPSS, A/B Testing, Data Mining, Business Intelligence, SQL Databases (PostgreSQL, MySQL), NoSQL Databases (MongoDB), Big Data Tools (Hadoop, Spark), Cloud Platforms (AWS, Azure), ETL Processes, Statistical Modeling, Time Series Analysis, Data Engineering, Deep Learning, and Natural Language Processing (NLP)**
 
-- 📫 How to reach me **vineetgoel0517@gmail.com**
+- 📫 How to reach me **rohanbajaj712@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1YO4VHSipuY8f7r9rakSpf2jYgMkwRK03VRlo9o3sMkg/edit?tab=t.0)
 
