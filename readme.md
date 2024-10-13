@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rohan Bajaj</h1>
 <h3 align="center">As a Data Analyst, I specialize in collecting, processing, and analyzing data to generate actionable insights that help businesses make data-driven decisions 📊. I work with large datasets using tools like Python, SQL, and Excel to uncover trends, patterns, and correlations. My expertise includes data cleaning, visualization, and statistical analysis, ensuring that businesses have clear, accurate insights to optimize performance and strategy 📈. I also develop interactive dashboards using Power BI and Tableau, enabling stakeholders to monitor KPIs and make informed decisions in real-time 💡.</h3>
 
-- "🚀 Revolutionizing Church Management" [CRM for the Church](https://thehopepresschapel.org/)
+- 🌱 I’m currently learning **Python, SQL, R, Power BI, Tableau, Machine Learning, Data Wrangling, Data Visualization, Predictive Analytics, Google Analytics, Excel, SAS, SPSS, A/B Testing, Data Mining, Business Intelligence, SQL Databases (PostgreSQL, MySQL), NoSQL Databases (MongoDB), Big Data Tools (Hadoop, Spark), Cloud Platforms (AWS, Azure), ETL Processes, Statistical Modeling, Time Series Analysis, Data Engineering, Deep Learning, and Natural Language Processing (NLP)**
 
-- 🌱 I’m currently learning **Vue.js, React.js, Next.js, Quasar, AWS, Azure, Node.js, Python, TypeScript, Echarts, GraphQL, Docker, Kubernetes, Tailwind CSS, Redis, Microservices Architecture, Serverless Computing, Django, Flask, CICD Pipelines, React Native, PostgreSQL, MongoDB, Firebase, Webpack, Nginx, Capacitor**
+- "🚀 Revolutionizing Church Management" [CRM for the Church](https://thehopepresschapel.org/)
 
 - "📚 Transforming Online Learning" [E-learning Platform](https://digitalearn.info/)
 
